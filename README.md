@@ -7,7 +7,7 @@ Learning GitHub
 Test words
 
 1. first item
-2. second item
 1. third item
+
 \i italics?
 \b bold?
