@@ -1,7 +1,7 @@
+
 # hello-world
 Learning GitHub
 
-# Is this a comment?
 ## This is not a comment
 
 Test words
@@ -9,5 +9,8 @@ Test words
 1. first item
 1. third item
 
+### Third level title
+
 \i italics?
-\b bold?
+*italics*
+\b bold? **bold**
