@@ -1,4 +1,3 @@
-
 # hello-world
 Learning GitHub
 
@@ -6,11 +5,15 @@ Learning GitHub
 
 Test words
 
-1. first item
-1. third item
+1. First item
+1. Third item
 
 ### Third level title
 
 \i italics?
+
 *italics*
-\b bold? **bold**
+
+\b bold? 
+
+**bold**
